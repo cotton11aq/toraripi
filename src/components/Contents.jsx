@@ -102,7 +102,7 @@ const Contacts = () => {
       });
   };
 
-  const addOrEdit = (obj) => {
+  const add = (obj) => {
     if (currentId === "")
       db.ref(`user/${uid}`).push(obj, (err) => {
         if (err) console.log(err);
@@ -115,7 +115,6 @@ const Contacts = () => {
       });
   };
 
-  // データベースをとってきて表示する
   useEffect(() => {
     db.ref(`user/${uid}`)
       .orderByKey()
@@ -132,7 +131,7 @@ const Contacts = () => {
     <>
       <div className="contacts-wrapper">
         <div className="contacts-left">
-          <ContentsForm {...{ currentId, addOrEdit }}></ContentsForm>
+          <ContentsForm {...{ currentId, add }}></ContentsForm>
         </div>
         <div className="contacts-right">
           <Paper className={classes.root}>

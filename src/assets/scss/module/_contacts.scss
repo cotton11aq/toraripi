@@ -25,7 +25,6 @@
 @include mq("sp") {
   .contacts {
     &-wrapper {
-      padding-left: 4rem;
       display: flex;
       flex-wrap: wrap;
       width: 100%;
@@ -33,7 +32,7 @@
       max-width: 1300px;
       margin: 0 auto;
       padding-top: 80px;
-
+      padding-bottom: 10px;
     }
 
     &-right {

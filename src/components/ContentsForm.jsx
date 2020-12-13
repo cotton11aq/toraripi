@@ -109,7 +109,7 @@ const ContactForm = (props) => {
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
-    props.addOrEdit(values);
+    props.add(values);
   };
 
   const classes = useStyles();
@@ -224,12 +224,12 @@ const ContactForm = (props) => {
                   shrink: true,
                 }}
                 InputProps={{
-                  endAdornment: <InputAdornment>円</InputAdornment>,
+                  endAdornment: <InputAdornment>万通貨</InputAdornment>,
                 }}
               />
             </div>
             <div className="contactform-button">
-              <Button variant="outlined" color="primary" onClick={doChange}>
+              <Button variant="contained" size="large" onClick={doChange}>
                 必要資金を計算する
               </Button>
             </div>
