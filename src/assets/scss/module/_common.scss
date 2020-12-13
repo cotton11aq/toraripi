@@ -1,0 +1,67 @@
+.btn-inherit {
+  color: white;
+}
+
+.btn-inherit:hover {
+  color: white;
+}
+
+.MuiOutlinedInput-input {
+  padding: 10px 14px !important;
+}
+
+button:focus {
+  outline: none;
+}
+
+.MuiTableCell-stickyHeader {
+  left: auto !important;
+}
+
+.btn.focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.calc-none {
+  display: none !important;
+}
+
+th:nth-child(3),
+th:nth-child(4),
+th:nth-child(5),
+th:nth-child(7) {
+  display: none;
+}
+
+th {
+  min-width: 70px !important;
+}
+
+.MuiTableCell-root {
+  font-size: 12px !important;
+  padding: 16px 0 !important;
+}
+
+@include mq("sp") {
+  th:nth-child(3),
+  th:nth-child(4),
+  th:nth-child(5),
+  th:nth-child(7) {
+    display: table-cell;
+  }
+
+  .calc-none {
+    display: table-cell !important;
+  }
+
+  th {
+    min-width: 100px !important;
+  }
+
+  .MuiTableCell-root {
+    font-size: 14px !important;
+    // padding: 16px 0 !important;
+  }
+}

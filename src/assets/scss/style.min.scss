@@ -1,0 +1,14 @@
+// @import "setting/name";
+@import 'setting/config'; //必ず一番上に
+
+// @import "base_/name";
+@import 'base/base';
+@import 'base/reset';
+
+// @import "mixin/name";
+@import 'mixin/mq';
+
+// @import "module/name";
+@import 'module/contactform';
+@import 'module/contacts';
+@import 'module/common';

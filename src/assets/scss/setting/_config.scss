@@ -1,0 +1,9 @@
+// メディアクエリ
+$layout-width-inner: 1024px; //PC時の最小横幅
+$breakpoints: (
+  'sp': 'screen and (min-width: 767px)',
+  //スマホ（767px以下なら）
+  'tab': 'screen and (min-width: #{$layout-width-inner - 1px})',
+  //タブレット（1023px以下なら）
+  'pc': 'screen and (min-width: #{$layout-width-inner})' //パソコン（1024px以上なら）,
+);

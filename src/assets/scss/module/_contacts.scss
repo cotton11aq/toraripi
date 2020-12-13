@@ -1,0 +1,50 @@
+.contacts {
+  padding-bottom: 5px;
+
+  &-wrapper {
+    width: 100%;
+    padding: 2rem;
+    padding-top: 80px;
+  }
+
+  &-left {
+    width: 100%;
+  }
+
+  &-right {
+    width: 100%;
+  }
+
+  button {
+    position: absolute;
+    right: 0;
+  }
+}
+
+// メディアクエリ（sp以上）
+@include mq("sp") {
+  .contacts {
+    &-wrapper {
+      padding-left: 4rem;
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      padding: 2rem;
+      max-width: 1300px;
+      margin: 0 auto;
+      padding-top: 80px;
+
+    }
+
+    &-right {
+      width: calc(100% - 18rem) !important;
+      padding-left: 1rem;
+    }
+
+    &-left {
+      width: 18rem;
+      padding-right: 1rem;
+    }
+  }
+
+}
