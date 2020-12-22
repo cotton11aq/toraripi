@@ -11,7 +11,7 @@ import TableRow from "@material-ui/core/TableRow";
 import firebase from "firebase/app";
 import IconButton from "@material-ui/core/IconButton";
 import DeleteIcon from "@material-ui/icons/Delete";
-import { db } from "../firebase";
+import { db } from "../../firebase";
 
 const columns = [
   {

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import firebase from "./firebase";
-import { Contents } from "./components/index";
+import { Contents } from "./assets/components/index";
 import Button from "@material-ui/core/Button";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";

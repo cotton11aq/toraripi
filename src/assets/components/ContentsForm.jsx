@@ -5,8 +5,8 @@ import MenuItem from "@material-ui/core/MenuItem";
 import InputAdornment from "@material-ui/core/InputAdornment";
 import Button from "@material-ui/core/Button";
 import SaveIcon from "@material-ui/icons/Save";
-import firebase from "../firebase";
-import g_login from "../assets/img/btn_google_signin_light_normal_web@2x.png";
+import firebase from "../../firebase";
+import g_login from "../img/btn_google_signin_light_normal_web@2x.png";
 
 const useStyles = makeStyles((theme) => ({
   root: {
