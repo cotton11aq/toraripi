@@ -4,7 +4,7 @@
 
 各地点の写真やスポットの紹介、地点間の移動にかかる時間やルートをテンプレート化し、初めての四国一周ツーリングをスムーズに行えるような構成に仕上げました。
 
-![rectangle_large_type_2_a80ca0bcb7e96333c7f6e7a19cff695a](https://user-images.githubusercontent.com/70832534/102882833-5f512700-4492-11eb-80c0-8a467c5ee947.png)
+![rectangle_large_type_2_a80ca0bcb7e96333c7f6e7a19cff695a](https://user-images.githubusercontent.com/70832534/103057274-61c29680-45e2-11eb-8594-1b05ff24b7b3.jpg)
 
 ## URL
 
