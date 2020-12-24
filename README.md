@@ -8,14 +8,17 @@
 
 ## URL
 
-<https://shikoku-touring.net>
+<https://toraripi-crud.web.app>
 
 ## 使用技術
 
 * HTML
 * CSS(SCSS)
 * JavaScript
-* jQuery
+* React
+* Firebase
+  * firebaseAuth
+  * firebase realitme database
 * AWS
   * Amazon Route 53
   * Amazon CloudFront
@@ -24,7 +27,9 @@
 
 ## 機能一覧
 
-* ツイッターシェア機能
+* ツイッターシェア
+* データ保存
+* ログイン／ログアウト
 * レスポンシブ対応
 
 ## AWS構成図
