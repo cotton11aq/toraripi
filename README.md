@@ -23,25 +23,17 @@ FXにおいてロスカットレートの設定は非常に大切です。
 * JavaScript
 * React
 * Firebase
-  * firebaseAuth
-  * firebase realitme database
-* AWS
-  * Amazon Route 53
-  * Amazon CloudFront
-  * S3
-  * AWS Certificate Manager
+  * Authentication
+  * Realtime Database
 
 ## 機能一覧
 
-* ツイッターシェア
-* データ保存
+* ユーザー登録
 * ログイン／ログアウト
+* データ保存
+* データ削除
 * レスポンシブ対応
 
-## AWS構成図
-
-![Untitled Diagram](https://user-images.githubusercontent.com/70832534/102887843-f91cd200-449a-11eb-90d1-9dec4ce42378.png)
-
-## 作成した経緯
+## アプリ説明
 
 ![Shikoku-touring-3](https://user-images.githubusercontent.com/70832534/102888426-1dc57980-449c-11eb-8112-de707890f6a9.png)
