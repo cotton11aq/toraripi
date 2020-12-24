@@ -13,8 +13,8 @@ FXにおいてロスカットレートの設定は非常に大切です。
 <https://toraripi-crud.web.app>
 
 <strong>テストユーザー</strong>
-メールアドレス：toraripi.test@gmail.com
-パスワード：toraripi1111
+メールアドレス：toraripi.test@gmail.com  
+パスワード：toraripi1111  
 
 ## 使用技術
 
