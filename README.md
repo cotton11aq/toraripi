@@ -17,14 +17,12 @@ FXにおいてロスカットレートの設定は非常に大切です。
 パスワード：toraripi1111  
 
 ## 使用技術
+<strong>フロントエンド</strong>  
+HTML / CSS(Sass) / JavaScript / React 
 
-* HTML
-* CSS(SCSS)
-* JavaScript
-* React
-* Firebase
-  * Authentication
-  * Realtime Database
+<strong>インフラ</strong>  
+Firebase Hosting / Firebase Authentication / Realtime Database
+</br>
 
 ## 機能一覧
 
