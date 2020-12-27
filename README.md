@@ -31,9 +31,9 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 * データ保存／削除
 * レスポンシブ対応
 
-## アプリ説明
+## アプリ概要
 
-![Shikoku-touring-3](https://user-images.githubusercontent.com/70832534/102888426-1dc57980-449c-11eb-8112-de707890f6a9.png)
+![Shikoku-touring-3 – 5](https://user-images.githubusercontent.com/70832534/103170459-b9cdf700-4887-11eb-928c-fd5a5f98bbcf.jpg)
 
 ### トップページから直接各カテゴリーへ
 トップページからと直接ジャンル、エリア別でお店リストを見られるよう改善しました。  
