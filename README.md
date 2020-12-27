@@ -35,6 +35,8 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 * ログイン／ログアウト
 * データ保存／削除
 * レスポンシブ対応
+<br />
+<br />
 
 ## アプリ概要
 
@@ -45,10 +47,6 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 ### シンプルな資金管理表
 最初に取引する通貨を選択し、ロスカットレートなどの必要事項を選択して計算する仕組みです。  
 ロスカットされないだけの必要資金が簡単にわかります。 
-
-<br />
-<br />
-
 ![Shikoku-touring-4 – 7](https://user-images.githubusercontent.com/70832534/103170554-5d1f0c00-4888-11eb-91b1-db9f19c9199f.jpg)
 
 ### ログイン→データ保存  
