@@ -21,7 +21,7 @@ FXにおいてロスカットレートの設定は非常に大切です。
 HTML / CSS(Sass) / JavaScript / React 
 
 <strong>インフラ</strong>  
-Firebase Hosting / Firebase Authentication / Realtime Database
+Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 </br>
 
 ## 機能一覧
