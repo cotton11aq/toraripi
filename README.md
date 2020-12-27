@@ -43,6 +43,7 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 ![Shikoku-touring-3 – 5](https://user-images.githubusercontent.com/70832534/103170459-b9cdf700-4887-11eb-928c-fd5a5f98bbcf.jpg)
 <br />
 <br />
+<br />
 
 ### シンプルな資金管理表
 最初に取引する通貨を選択し、ロスカットレートなどの必要事項を選択して計算する仕組みです。  
