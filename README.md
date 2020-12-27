@@ -6,7 +6,7 @@ FXにおいてロスカットレートの設定は非常に大切です。
 このアプリでは、ロスカットレートや購入金額を記入するだけで、ロスカットされないために必要な資金を計算することができます。  
 また、計算結果をデータとして保存することができ、今いくら資金が拘束されているのか簡単にわかります。
 
-![rectangle_large_type_2_a80ca0bcb7e96333c7f6e7a19cff695a](https://user-images.githubusercontent.com/70832534/103057274-61c29680-45e2-11eb-8594-1b05ff24b7b3.jpg)
+![Shikoku-touring-4 – 8](https://user-images.githubusercontent.com/70832534/103171693-9f991680-4891-11eb-84a8-28da64886258.jpg)
 <br />
 <br />
 
