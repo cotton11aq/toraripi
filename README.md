@@ -40,7 +40,7 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 
 ## アプリ概要
 
-![Shikoku-touring-3 – 5](https://user-images.githubusercontent.com/70832534/103170459-b9cdf700-4887-11eb-928c-fd5a5f98bbcf.jpg)
+![toraripi-1](https://user-images.githubusercontent.com/70832534/103212846-514a4d00-494f-11eb-9a02-9e9272662661.jpg)
 <br />
 <br />
 <br />
