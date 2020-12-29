@@ -6,7 +6,7 @@ FXにおいてロスカットレートの設定は非常に大切です。
 このアプリでは、ロスカットレートや注文金額を記入するだけで、ロスカットされないために必要な資金を計算することができます。  
 また、計算結果をデータとして保存することができ、今いくら資金が拘束されているのか簡単に知ることができます。
 
-![toraripi](https://user-images.githubusercontent.com/70832534/103278842-cda46500-4a0f-11eb-972c-4ebede73aafb.png)
+![toraripi](https://user-images.githubusercontent.com/70832534/103279271-bdd95080-4a10-11eb-8cfb-aa687a19017d.png)  
 <br />
 <br />
 
