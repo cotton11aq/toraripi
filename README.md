@@ -48,7 +48,7 @@ Firebase Hosting / Firebase Authentication / Firebase Realtime Database
 ### シンプルな資金管理表
 最初に取引する通貨を選択し、ロスカットレートなどの必要事項を選択して計算する仕組みです。  
 ロスカットされないだけの必要資金が簡単にわかります。 
-![Shikoku-touring-4 – 7](https://user-images.githubusercontent.com/70832534/103170554-5d1f0c00-4888-11eb-91b1-db9f19c9199f.jpg)
+![Toraripi – 1](https://user-images.githubusercontent.com/70832534/104082336-bae42880-5278-11eb-9761-24fb2c507dd6.jpg)
 
 ### ログイン→データ保存  
 計算はログインしなくても行えるようにし、データを保存したい場合はログインして自分のデータを保存することができます。
